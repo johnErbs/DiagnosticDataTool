@@ -1,0 +1,128 @@
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\bin\Debug\MediaWareMonitor.exe.config
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\bin\Debug\MediaWareMonitor.exe
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\bin\Debug\MediaWareMonitor.pdb
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.csprojResolveAssemblyReference.cache
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\obj\Debug\MainWindow.g.cs
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\obj\Debug\App.g.cs
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor_MarkupCompile.cache
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor_MarkupCompile.lref
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\obj\Debug\MainWindow.baml
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.g.resources
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.Properties.Resources.resources
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.csproj.GenerateResource.cache
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.csproj.CoreCompileInputs.cache
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.exe
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.pdb
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\MainMonitorPage.g.cs
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\MainMonitorPage.baml
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\bin\Debug\LiveCharts.dll
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\bin\Debug\LiveCharts.pdb
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\bin\Debug\LiveCharts.xml
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.csproj.CopyComplete
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\RightSidePannel.g.cs
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\RightSidePannel.baml
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\LeftSidePanel.g.cs
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\LeftSidePanel.baml
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\LineChartWindow.g.cs
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\LineChartWindow.baml
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\TestToDelete.g.cs
+C:\Users\johnnyerbs\Desktop\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\TestToDelete.baml
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\bin\Debug\MediaWareMonitor.exe.config
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\bin\Debug\MediaWareMonitor.exe
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\bin\Debug\MediaWareMonitor.pdb
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\bin\Debug\LiveCharts.dll
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\bin\Debug\LiveCharts.pdb
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\bin\Debug\LiveCharts.xml
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.csprojResolveAssemblyReference.cache
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\obj\Debug\MainWindow.g.cs
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\LeftSidePanel.g.cs
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\LineChartWindow.g.cs
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\MainMonitorPage.g.cs
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\RightSidePannel.g.cs
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\TestToDelete.g.cs
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\obj\Debug\App.g.cs
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor_MarkupCompile.cache
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor_MarkupCompile.lref
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\obj\Debug\MainWindow.baml
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\LeftSidePanel.baml
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\LineChartWindow.baml
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\MainMonitorPage.baml
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\RightSidePannel.baml
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\TestToDelete.baml
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.g.resources
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.Properties.Resources.resources
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.csproj.GenerateResource.cache
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.csproj.CoreCompileInputs.cache
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.csproj.CopyComplete
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.exe
+C:\Users\johnnyerbs\Desktop\Ny mappe\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.pdb
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\bin\Debug\MediaWareMonitor.exe.config
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\bin\Debug\MediaWareMonitor.exe
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\bin\Debug\MediaWareMonitor.pdb
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\bin\Debug\LiveCharts.dll
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\bin\Debug\LiveCharts.pdb
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\bin\Debug\LiveCharts.xml
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.csprojResolveAssemblyReference.cache
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\MainWindow.g.cs
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\LeftSidePanel.g.cs
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\LineChartWindow.g.cs
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\MainMonitorPage.g.cs
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\RightSidePannel.g.cs
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\TestToDelete.g.cs
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\App.g.cs
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor_MarkupCompile.cache
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor_MarkupCompile.lref
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\MainWindow.baml
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\LeftSidePanel.baml
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\LineChartWindow.baml
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\MainMonitorPage.baml
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\RightSidePannel.baml
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\TestToDelete.baml
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.g.resources
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.Properties.Resources.resources
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.csproj.GenerateResource.cache
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.csproj.CoreCompileInputs.cache
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.csproj.CopyComplete
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.exe
+C:\Users\johnnyerbs\Desktop\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.pdb
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\bin\Debug\MediaWareMonitor.exe.config
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\bin\Debug\MediaWareMonitor.exe
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\bin\Debug\MediaWareMonitor.pdb
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\bin\Debug\LiveCharts.dll
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\bin\Debug\LiveCharts.pdb
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\bin\Debug\LiveCharts.xml
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.csprojResolveAssemblyReference.cache
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\MainWindow.g.cs
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\LeftSidePanel.g.cs
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\LineChartWindow.g.cs
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\MainMonitorPage.g.cs
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\RightSidePannel.g.cs
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\TestToDelete.g.cs
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\App.g.cs
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor_MarkupCompile.cache
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor_MarkupCompile.lref
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\MainWindow.baml
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\LeftSidePanel.baml
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\LineChartWindow.baml
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\MainMonitorPage.baml
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\RightSidePannel.baml
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\Pages\TestToDelete.baml
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.g.resources
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.Properties.Resources.resources
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.csproj.GenerateResource.cache
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.csproj.CoreCompileInputs.cache
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.csproj.CopyComplete
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.exe
+C:\Users\johnnyerbs\source\BackUPTXT\MediaWareMonitor\MediaWareMonitor\obj\Debug\MediaWareMonitor.pdb

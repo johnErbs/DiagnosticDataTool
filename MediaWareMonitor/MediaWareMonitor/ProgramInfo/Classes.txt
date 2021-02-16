@@ -1,0 +1,30 @@
+﻿
+This is a structured filosophy over the programflow the dependencies of the classes and thier mainpurpose within the flow.
+
+This program consist of a monitor which is resposible for monitoring sensors on the motherboard and other states of hardware consumptions.
+The maingoal is to detect: overheating of system, performance of System,  wifi-connection, monitor connection, ethernet connection, hardware realatet damage and software realatet dammage.
+This philosophy is inspired by techniques of ETL prossecces Extract Transform Load, so in order to analyse data from the system we need to understand it!
+We also need to represent the right constraints of system data collections within the database, which is a requirement to give the user a correct survey from snapshots of the system condition.
+
+Steps of programflow:
+- Data from the system is our source; from which we Extract data from serval snapshots whithin hartbeats of ansync time operations.
+- Datatypes will be transformed and gathered with constraints of timestamps.
+- Final collection of data is saved and loaded as a logfile of static information inside the database.
+
+Classes:
+	* Monitor class
+		Description: 
+			* The mainclass is the Monitor.
+		Attributes:	
+			* Name: ?
+		Methods:
+			* Overide - MonitorController.SetTimeBeat()
+	* MonitorController class
+		Interface: 
+			* ISystemTimeBeat
+		Methods:
+			* Static internal - SetTimeBeat()
+		
+	
+
+
